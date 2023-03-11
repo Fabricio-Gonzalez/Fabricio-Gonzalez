@@ -1,16 +1,16 @@
-### Hi there 👋
+# **Hola, mi nombre es Fabricio Goznalez**
 
-<!--
-**Fabricio-Gonzalez/Fabricio-Gonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Actualmente trabajo hace 4 años en una ELEPEM como mantenimiento a cargo del **Ejercito de Salvacion**.
 
-Here are some ideas to get you started:
+#### Me gusta todo lo relacionado con la tecnologia y esta es mi primera experiencia en el mundo del desarollo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Campo de entrenamisnto tarea**
+
+| Comando | Directorio |
+|---------|------------|
+| ls | listar el contenido |
+| cd | cambiar entre directorios |
+| yarn | instalar dependencias |
+| gst | alias de git status |
+| clear | limpiar la terminal |
+| alias | listar los alias |
